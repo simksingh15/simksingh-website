@@ -104,7 +104,7 @@ input, select, textarea {
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 12pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -2249,7 +2249,7 @@ input, select, textarea {
 			#main > section.one {
 				background-color: #81918E;
 				background-image: url("../../images/banner_img.jpeg");
-				opacity: 0.9;
+				opacity: 0.6;
 			}
 
 			#main > section.two {
