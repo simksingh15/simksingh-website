@@ -2078,12 +2078,12 @@ input, select, textarea {
 			}
 
 		#header .icons {
-			font-size: 0.8em;
+			font-size: 0.9 em;
 			text-align: center;
 		}
 
 			#header .icons a {
-				color: #41484c;
+				color: #576066;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2091,7 +2091,8 @@ input, select, textarea {
 			}
 
 				#header .icons a:hover {
-					color: #fff;
+					color: #E27689;
+					border-bottom-color: rgba(255, 255, 255, 0);
 				}
 
 	#logo {
@@ -2412,8 +2413,8 @@ input, select, textarea {
 		/* Icons */
 
 			ul.icons a {
-				width: 1.75em;
-				font-size: 1.25em;
+				width: 2.0em;
+				font-size: 2.0em;
 			}
 
 		/* Header */
